@@ -1,0 +1,36 @@
+ion-content{
+    --background:url(../../../assets/1200x1920-Background-HD-Wallpaper-025-300x480.jpg) no-repeat
+    center center/cover;
+}
+ion-content {
+    ion-list {
+        position: relative;
+        top: 30%;
+    }
+
+}
+.btn-center-align {
+    text-align: center !important;
+}
+.btn-center-align ion-button {
+    color: white;
+}
+.btn-center-align ion-button:hover {
+    color: black;
+}
+ion-item {
+    --background: transparent;
+    color: rgb(34, 16, 51);
+    --min-width: 40px;
+}
+
+ion-list {
+    background-color: transparent;
+}
+a{
+    color:white;
+}
+
+:host{
+    --min-height: 39px;
+}

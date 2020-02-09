@@ -1,0 +1,7 @@
+{
+  "name": "AuthLogin blank",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
